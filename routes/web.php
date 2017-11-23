@@ -21,3 +21,7 @@ Route::get('/', function () {
 
    return view('events.index',compact('events'));
 });
+
+Route::get('/home',function(){
+	return view('events.home');
+});

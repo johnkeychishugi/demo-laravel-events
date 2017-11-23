@@ -1,5 +1,5 @@
 <?php
-//Namespace App\Helpers;
+Namespace App\Helpers;
 
 class EventsHelper
 {
