@@ -6,5 +6,7 @@
 </head>
 <body>
 	Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde error eaque recusandae est rerum neque, fugit magni cumque! Esse hic libero praesentium a repellendus nam quos cum eum distinctio ducimus!
+
+	<p>Email : jkchishugi@gmail.com</p>
 </body>
 </html>
