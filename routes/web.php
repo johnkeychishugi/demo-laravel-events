@@ -25,3 +25,7 @@ Route::get('/', function () {
 Route::get('/home',function(){
 	return view('events.home');
 });
+
+Route::get('/help',function(){
+	return view('events.help');
+});
