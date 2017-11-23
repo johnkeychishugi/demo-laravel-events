@@ -29,3 +29,6 @@ Route::get('/home',function(){
 Route::get('/help',function(){
 	return view('events.help');
 });
+Route::get('/contact',function(){
+	return view('events/contact')
+});

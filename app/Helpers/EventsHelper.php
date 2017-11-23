@@ -13,9 +13,7 @@ class EventsHelper
 		{
 			return sprintf("%.2f euros", $event->price);
 		}
-
 	}
-
 	public static function formatDate($date)
 	{
 		return $date->format('d/m/Y H:i');

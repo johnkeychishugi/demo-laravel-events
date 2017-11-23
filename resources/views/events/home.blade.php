@@ -9,7 +9,6 @@
 	<h2>Test Git Repository</h2>
 	<h2>Test Git Repository</h2>
 	<h2>Test Git Repository</h2>
-	<h2>Test Git Repository</h2>
-	
+	<h2>Test Git Repository.</h2>
 </body>
 </html>
